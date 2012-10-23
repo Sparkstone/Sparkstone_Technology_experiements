@@ -1,3 +1,9 @@
+VIEW THE DEMO HERE:
+
+http://www.sparkstone.co.uk/experiments/windowsphone_menu/wp7a.htm
+
+
+
 This Windows Phone style menu has been developed by Sparkstone Technology's e-commerce and design teams as part of their ongoing experiements on mobile and tablet devices, and their determination to provide web users with a seamless user experience across all devices.
 
 This menu is responsive to different screen sizes and you can set the maximum menu width simply by changing the css properties of the class "ul.wp7_menu".
@@ -9,6 +15,7 @@ By default each menu 'tile' has a CSS class applied which positions the menu til
 On page load the CSS class is removed sequentially from each tile and CSS transitions animate the tile back into place.
 
 Clicking on a tile starts a reverse transition, but makes sure that the selected tile is removed last.
+
 
 
 
